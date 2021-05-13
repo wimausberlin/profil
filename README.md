@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/wim-poignon-a113aa1b0/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/wim-poignon-a113aa1b0/?locale=en_US">LinkedIn</a> 
 </p>
 
 Hey 👋, I'm Wim, I study in Paris - La Défense as a student engineer in robotics at the [Leonard de Vinci Graduate School of Engineering](https://www.esilv.fr/en/).
