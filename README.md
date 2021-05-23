@@ -7,9 +7,7 @@ Hey 👋, I'm Wim, I study in Paris - La Défense as a student engineer in robot
 I am currently in an university robotic organization as Co-President.
 
 
-<br>
 <p align="center">
   !Wim's GitHub stats](https://github-readme-stats.vercel.app/api?username=wimausberlin&show_icons=true&theme=radical)
 
 </p>
-<br/>
