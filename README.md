@@ -9,6 +9,6 @@ I am currently in an university robotic organization as Co-President.
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wimausberlin&theme=nord&show_icons=true&count_private=true&theme=merko">
+  <img src="https://github-readme-stats.vercel.app/api?username=wimausberlin&theme=nord&show_icons=true&count_private=true&theme=dark">
 </p>
 <br/>
